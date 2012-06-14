@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{E5E34B83-6943-B2C0-1841-24879706564C}") = "AirChallenge", "Assembly-CSharp-vs.csproj", "{B7D8802F-A960-D7B0-3C7F-D7321924BAC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7D8802F-A960-D7B0-3C7F-D7321924BAC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D8802F-A960-D7B0-3C7F-D7321924BAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D8802F-A960-D7B0-3C7F-D7321924BAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D8802F-A960-D7B0-3C7F-D7321924BAC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
